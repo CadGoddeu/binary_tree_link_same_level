@@ -1,7 +1,7 @@
 dfs and bfs for binary tree
 
 input:
- 	 1
+ 	 		1
     / \
    2   3
   /   / \
